@@ -1,0 +1,95 @@
+# 📝 To-Do List App
+
+## 📖 Description
+
+This is a simple and responsive To-Do List application built using HTML, CSS, and JavaScript. The application allows users to manage daily tasks by adding, editing, completing, and deleting tasks. It also uses the browser's `localStorage` to save tasks so they remain available even after the page is refreshed.
+
+This project was developed as part of the **IYF Weekend Academy Season 11 - Week 13 & 14 Assignment**, focusing on JavaScript best practices, code refactoring, application state management, and browser storage.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 💾 Save tasks using `localStorage`
+- 🔄 Automatically load saved tasks after refreshing the page
+- ⌨️ Press **Enter** to add a task
+- 📱 Clean and responsive user interface
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Browser Local Storage
+
+---
+
+## 📂 Project Structure
+
+```
+todo-app/
+│
+├── index.html
+├── style.css
+├── script.js
+├── storage.js
+├── refactor.js
+└── README.md
+```
+
+---
+
+## ▶️ How to Run the Project
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your web browser.
+4. Start adding and managing your tasks.
+
+---
+
+## 📚 Concepts Demonstrated
+
+This project demonstrates the following JavaScript concepts:
+
+- DOM Manipulation
+- Event Listeners
+- Arrays and Objects
+- Functions
+- Code Refactoring
+- localStorage
+- sessionStorage
+- State Persistence
+- Clean Code Principles
+
+---
+
+## 🎯 Assignment Objectives Covered
+
+- ✔ Refactored To-Do List Application
+- ✔ localStorage Persistence
+- ✔ sessionStorage Exercises
+- ✔ State Persistence
+- ✔ Code Refactoring
+- ✔ Clean and Readable Code
+- ✔ Best Practice Patterns
+
+---
+
+## 👨‍💻 Author
+
+**James Kimani**
+
+GitHub: https://github.com/your-github-username
+
+---
+
+## 📄 License
+
+This project was created for educational purposes as part of the **IYF Weekend Academy Season 11**.
